@@ -1,0 +1,60 @@
+html{
+  background-color: #ADD8E6;
+  padding-top: 25px;
+}
+.cover{
+   width: 200px;
+   height: 250px;
+   margin-top: -250px;
+   padding-left: 25px;
+   padding-top: 25px;
+   padding-right: 25px;
+}
+.zebra{
+ text-align: left;
+ padding-right: 250px;
+ padding-left: 35px;
+ font-family: arial;
+ line-height: 1.5;
+}
+#outer-container{
+      width: 700px;
+      margin: 0 auto;
+      height: 700px;
+}
+div{
+  border: 5px solid green;
+  padding-top: 20px;
+  
+}
+h1{
+  color: white;
+}
+.title{
+ text-align: center;
+}
+h2{
+ color: white;
+ padding-left: 35px;
+}
+li{
+  display: inline-block;
+  text-align: center;
+}
+.myul{
+  text-align: center;
+}
+ul>li>a{
+  color: green;
+}
+ul>li{
+  color: white;
+  font-weight: bold;
+}
+p{
+padding-left: 35px;
+padding-right: 45px;
+color: white;
+font-weight: bold;
+line-height: 1.5;
+}
